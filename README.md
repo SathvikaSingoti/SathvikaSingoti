@@ -28,7 +28,7 @@ $ ./run --stats
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=SathvikaSingoti&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=8b949e)
 
-![snake](https://raw.githubusercontent.com/SathvikaSingoti/SathvikaSingoti/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/SathvikaSingoti/SathvikaSingoti/output/github-contribution-grid-snake.svg)
 
 </div>
 
