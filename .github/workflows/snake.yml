@@ -19,8 +19,7 @@ jobs:
         with:
           github_user_name: SathvikaSingoti
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?color_snake=%2358a6ff&color_dots=%230d1117,%2321262d,%23234c6e,%232f6feb,%2358a6ff
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
