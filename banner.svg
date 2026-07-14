@@ -1,0 +1,37 @@
+<svg width="700" height="180" viewBox="0 0 700 180" xmlns="http://www.w3.org/2000/svg" font-family="Courier New, monospace">
+  <rect width="700" height="180" rx="8" fill="#0d1117"/>
+
+  <defs>
+    <clipPath id="clip1"><rect x="0" y="0" width="0" height="30"><animate attributeName="width" from="0" to="480" dur="2.2s" begin="0.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip2"><rect x="0" y="0" width="0" height="30"><animate attributeName="width" from="0" to="420" dur="2s" begin="2.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip3"><rect x="0" y="0" width="0" height="30"><animate attributeName="width" from="0" to="480" dur="2.1s" begin="5.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip4"><rect x="0" y="0" width="0" height="30"><animate attributeName="width" from="0" to="620" dur="2.6s" begin="7.6s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip1)" transform="translate(28,28)">
+    <text x="0" y="14" font-size="16">
+      <tspan fill="#E3B341">commit 7a3f9e2c1b</tspan>
+      <tspan fill="#8b949e"> (</tspan>
+      <tspan fill="#58a6ff">HEAD -&gt; main</tspan>
+      <tspan fill="#8b949e">, </tspan>
+      <tspan fill="#3fb950">origin/main</tspan>
+      <tspan fill="#8b949e">)</tspan>
+    </text>
+  </g>
+
+  <g clip-path="url(#clip2)" transform="translate(28,58)">
+    <text x="0" y="14" font-size="16" fill="#8b949e">Author: Sathvika Singoti &lt;sathvika@build&gt;</text>
+  </g>
+
+  <g clip-path="url(#clip3)" transform="translate(28,88)">
+    <text x="0" y="14" font-size="16" fill="#8b949e">Branch: CS undergrad + Data Science, IIT Madras</text>
+  </g>
+
+  <g clip-path="url(#clip4)" transform="translate(28,126)">
+    <text x="0" y="14" font-size="16" fill="#f0f6fc">Building full-stack systems and contributing to open source</text>
+  </g>
+
+  <rect x="600" y="127" width="9" height="18" fill="#3fb950">
+    <animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.6;0.62;0.7;0.78;0.86;0.94;1" dur="1.5s" begin="10.4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
