@@ -1,13 +1,13 @@
 ![banner](./banner.svg)
 
 ---
-$ ./run --building
+#### $ ./run --building
 
 **[melodia](https://usemelodia.vercel.app/)** → live
 Full-stack AI music streaming platform. Next.js 14, Node/Express, MongoDB, Gemini 2.5 Flash. 35+ endpoints.
 
 ---
-$ ./run --contributions
+#### $ ./run --contributions
 
 | repo | role |
 |---|---|
@@ -15,12 +15,12 @@ $ ./run --contributions
 | [SecuScan](https://github.com/SathvikaSingoti/SecuScan) | invited collaborator · FastAPI/React security scanner |
 
 ---
-$ ./run --stack
+#### $ ./run --stack
 
 `python` `typescript` `next.js` `node/express` `mongodb` `c++`
 
 ---
-$ ./run --stats
+#### $ ./run --stats
 
 <div align="center">
 
@@ -33,6 +33,6 @@ $ ./run --stats
 </div>
 
 ---
-$ ./run --connect
+#### $ ./run --connect
 
 (https://linkedin.com/in/sathvikasingoti)
